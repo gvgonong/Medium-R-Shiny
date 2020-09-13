@@ -1,3 +1,3 @@
-# R-Project
+# Medium-R-Shiny
 
-It's Corona Time!! Social Distancing..
+Staying home, saving lives!
